@@ -1,0 +1,7 @@
+/* background: linear-gradient(135deg, #f8f9fa, #e0eafc); */
+
+body {
+	background-image: repeating-linear-gradient(45deg, #F8F9FA 0, #E0EAFC 1.5px, transparent 0, transparent 50%);
+	background-size: 30px 30px;
+	background-color: #E4E4ED;
+}
